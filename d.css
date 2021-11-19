@@ -1,0 +1,171 @@
+body{
+  background-color: white;
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.button1 {
+  background-color: #3F6ACC; 
+  color: white; 
+  border: 2px solid black;
+}
+
+.button1:hover {
+  background-color: #00309F;
+  color: white;
+}
+.button2 {
+  background-color: #3F6ACC; 
+  color: white; 
+  border: 2px solid black;
+}
+
+.button2:hover {
+  background-color: #00309F;
+  color: white;
+}
+.button3 {
+  background-color: #3F6ACC; 
+  color: white; 
+  border: 2px solid black;
+  justify-content: center;
+}
+
+.button3:hover {
+  background-color: #00309F;
+  color: white;
+}
+.button4 {
+  background-color: #3F6ACC; 
+  color: white; 
+  border: 2px solid black;
+}
+
+.button4:hover {
+  background-color: #00309F;
+  color: white;
+}
+img{
+  margin: 20px 500px;
+  border: 2px solid black;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  background-color: #3F6ACC;
+  border: 2px solid black;
+}
+a:hover{
+  background-color: #00309F;
+}
+.at{
+  width: 40px;
+  height: 60px;
+  margin: -22px 5px;
+  border: none;
+}
+
+.at{
+  width: 40px;
+  height: 60px;
+  margin: -22px 5px;
+  border: none;
+}
+.sekil{
+
+  margin: 10px;
+
+  width: 1200px;
+  height: 600px;
+  border: none;
+
+
+}
+.klas {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.gg{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 90px;
+  background-color: #4873E7;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  border: 2px solid black;
+
+}
+.twi{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  border-radius: 15px;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #4873E7;
+
+}
+.laa{
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+}
+.dasa{
+  display: flex;
+  justify-content: flex-start;
+  color: white;
+   font-family: Garamond;
+}
+.bir{
+   position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  border-radius: 15px;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #4873E7;
+
+}
+.iki{
+   position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 20px;
+  border-radius: 15px;
+  border: 2px solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #4873E7;
+
+}
